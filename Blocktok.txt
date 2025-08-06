@@ -330,3 +330,4 @@ tiktokcdn.172.252.0.1
 tiktokcdn.172.253.0.1
 tiktokcdn.172.254.0.1
 tiktokcdn.172.255.0.1
+*.tiktokcdn.com
