@@ -31,3 +31,10 @@ blog.tiktok.com
 news.tiktok.com
 privacy.tiktok.com
 terms.tiktok.com
+tiktokw.us
+tiktokv.us
+mcs.tiktokv.us
+www.tiktokw.us
+tiktok-proxy.com
+tiktokcdn.com
+tiktokstatic.com
