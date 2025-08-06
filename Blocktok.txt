@@ -331,3 +331,15 @@ tiktokcdn.172.253.0.1
 tiktokcdn.172.254.0.1
 tiktokcdn.172.255.0.1
 *.tiktokcdn.com
+tiktok.com
+tiktok.net
+tiktok.app
+tiktok.io
+tiktok.us
+tiktokcdn.com
+tiktokcdn-us.com
+p19-common-sg.tiktokcdn-us.com
+lf16-cdn-tos.tiktokcdn-us.com
+akamai.net
+akamai.edgekey.net
+edgekey.net
